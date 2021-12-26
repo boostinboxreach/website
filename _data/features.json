@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Leads generation",
+    "description": "We provide leads generation service, with <strong>3.8% conversion rate</strong> and <strong>70% open rate</strong>, just let us know your target and will do the rest of the work.",
+    "image": "images/features/leads.png"
+  },
+  {
+    "title": "LinkedIn Scraping",
+    "description": "We provide all sorts of LinkedIn scraping from activities, jobs to messages, exported data can be in excel / csv format or push data directly to CRM.",
+    "image": "images/features/linkedin.png"
+  },
+  {
+    "title": "LinkedIn Sales Navigator Scraping",
+    "description": "We can scrape all your searches on LinkedIn Sales Navigator. Extracted data will be deliverd in excel / csv format or pushed directely to a CRM in your choice.",
+    "image": "images/features/sales.png"
+  },
+  {
+    "title": "LinkedIn Messages Scraping",
+    "description": "We can extract all your LinkedIn messages, data can be in excel / csv format or push data to a CRM.",
+    "image": "images/features/message.png"
+  },
+  {
+    "title": "LinkedIn Activities Scraping",
+    "description": "Extract LinkedIn activities (comments / posts / likes) for a specific user or multiple users.",
+    "image": "images/features/activity.png"
+  },
+  {
+    "title": "Internet Scraping",
+    "description": "We provide all sorts of web scraping service. Just send us a message and we can help acheive your requirments.",
+    "image": "images/features/internet.png"
+  }
+]

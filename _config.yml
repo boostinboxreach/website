@@ -1,0 +1,63 @@
+baseurl: '/'
+permalink: pretty
+title: 'Boost Inbox Reach'
+
+google_analytics_id: "G-NWSRZ2FLGQ"
+
+homepage:
+  show_call_box: false
+
+logo:
+  mobile: "images/logo/logo-mobile.png"
+  desktop: "images/logo/logo.png"
+  desktop_height: "36px"
+
+footer:
+  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+
+seo:
+  meta_og_title: |
+    Boost Inbox Reach
+    Lead Generation
+    Done For You
+    A Proven Process That Delivers
+    We Prospect so you can Sell
+    We source, collect and verify the prospect data from live data sources
+    LinkedIn / LinkedIn Sales Navigator
+  meta_og_type: "website"
+  meta_og_url: "https://www.boostinboxreach.com"
+  meta_og_image: ""
+  meta_og_description: |
+    Boost Inbox Reach
+    Lead Generation
+    Done For You
+    A Proven Process That Delivers
+    We Prospect so you can Sell
+    We source, collect and verify the prospect data from live data sources
+    LinkedIn / LinkedIn Sales Navigator
+
+collections:
+  services:
+    output: true
+  team:
+    output: true
+
+sass:
+  indentWidth: 4
+  style: compact # possible values: nested expanded compact compressed
+  precision: 10
+
+plugins:
+  - jekyll-environment-variables
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md

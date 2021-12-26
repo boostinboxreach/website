@@ -1,0 +1,9 @@
+main:
+  - name: "Contact"
+    url: "mailto:lhassan@boostinboxreach.com"
+    weight: 1
+
+footer:
+  - name: "Contact"
+    url: "mailto:lhassan@boostinboxreach.com"
+    weight: 1
